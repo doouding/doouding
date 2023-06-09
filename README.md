@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **doouding/doouding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤔 Newbie to fully work on an open source project.
+- 🔧 Mainly work with TypeScript and JavaScript
+- 🌱 There's nothing fun on my Github so far, so is my life....
