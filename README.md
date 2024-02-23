@@ -2,6 +2,4 @@ Mainly work with TypeScript and JavaScript. There's nothing fun on my Github so 
 
 <img
 	src="https://spotify-badge-orpin.vercel.app/api/now-playing.svg"
-	width="500"
-	height="44"
 />
